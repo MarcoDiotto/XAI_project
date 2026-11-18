@@ -4,6 +4,7 @@ datasets
 tqdm
 scikit-learn
 ipykernel
+matplotlib
 
 # To use the GPU in Torch
 # pip uninstall torch torchvision torchaudio -y
