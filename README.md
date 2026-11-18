@@ -13,8 +13,8 @@ We aim to explore the distinction between **concept decodability** (detecting a 
 * **Status:** Initial draft / Exploratory stage
 
 ## Authors & Team Members
-* **Riccardo Stefani** - 
-* **Marco Diotto** - 
+* **Riccardo Stefani** - 2185068
+* **Marco Diotto** - 2185069
 
 ---
 
