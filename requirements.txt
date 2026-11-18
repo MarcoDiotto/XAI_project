@@ -1,0 +1,10 @@
+# torch
+transformers
+datasets
+tqdm
+scikit-learn
+ipykernel
+
+# To use the GPU in Torch
+# pip uninstall torch torchvision torchaudio -y
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
