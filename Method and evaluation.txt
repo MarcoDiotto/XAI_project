@@ -1,4 +1,4 @@
-1) Establish baseline task performance and define the classification score and activation pooling. 
+1) Establish baseline task performance and define the classification score and activation pooling. 🔃
 
 2) Select the analysed layers using validation examples. 
 
@@ -19,3 +19,4 @@ influence.
 Symbols:
 ✅
 ❌
+🔃
