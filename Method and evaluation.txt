@@ -1,6 +1,6 @@
-1) Establish baseline task performance and define the classification score and activation pooling. 🔃
+1) Establish baseline task performance and define the classification score and activation pooling. ✅
 
-2) Select the analysed layers using validation examples. 
+2) Select the analysed layers using validation examples. 🔃
 
 3) Learn concept directions from labelled examples, keeping concept
 fitting and evaluation separate. 
