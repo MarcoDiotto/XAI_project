@@ -3,7 +3,7 @@
 2) Select the analysed layers using validation examples. 🔃
 
 3) Learn concept directions from labelled examples, keeping concept
-fitting and evaluation separate. 
+fitting and evaluation separate. 🔃
 
 4) Measure concept detection and class-score sensitivity, including shuffled-label and lexical controls.
 
