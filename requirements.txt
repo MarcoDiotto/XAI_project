@@ -5,6 +5,7 @@ tqdm
 scikit-learn
 ipykernel
 matplotlib
+seaborn
 
 # To use the GPU in Torch
 # pip uninstall torch torchvision torchaudio -y

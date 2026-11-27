@@ -1,11 +1,11 @@
 1) Establish baseline task performance and define the classification score and activation pooling. ✅
 
-2) Select the analysed layers using validation examples. 🔃
+2) Select the analysed layers using validation examples. ✅
 
 3) Learn concept directions from labelled examples, keeping concept
-fitting and evaluation separate. 🔃
+fitting and evaluation separate. ✅
 
-4) Measure concept detection and class-score sensitivity, including shuffled-label and lexical controls.
+4) Measure concept detection and class-score sensitivity, including shuffled-label and lexical controls. 🔃
 
 5) Compare these findings with manually checked input edits whose expected effects are stated, and activation
 interventions along the concept directions. 
