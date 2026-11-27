@@ -1,0 +1,28 @@
+
+4148 - "We tried a new place. Not worth the price, wait, or probable health risks. ",2,negative
+not -> It is worth the price, wait, and probable health risks.
+
+4335 - "A minute later, the TV will go up several channels like it's possessed. Which is not good.",2,
+not -> ""
+
+409 - "Alas, neither she nor I were able to find a new pair in my size.",1,negative
+neither -> both, or -> and
+
+3705 - The place was quaint but the waiter was rude and the food was terrible.,2,negative
+but -> and
+
+163 - "Although they are branded as a Mitsubishi Dealership, they carry high end used cars and act as a used car dealership on the side.",1,neutral
+Although -> ""
+
+4227 - "A little dry and chewy, but that's just to my taste!",2,positive
+but -> and
+
+3912 - "If you like high prices and crowds, Container Park is awesome.",2,negative
+awesome -> ok
+
+3966 - Is it even fair to expect a fish place would have amazing wings?,2,neutral
+amazing -> decent
+
+3957 - It was excellent and huge portions I had forgotten I had spent the night on the toilet.,2,positive
+
+excellent -> good
