@@ -1,27 +1,58 @@
+CONCEPT REMOTION
 
-4148 - "We tried a new place. Not worth the price, wait, or probable health risks. ",2,negative
+4086 - "We tried a new place. Not worth the price, wait, or probable health risks. ",2,negative
 not -> It is worth the price, wait, and probable health risks.
 
-4335 - "A minute later, the TV will go up several channels like it's possessed. Which is not good.",2,
+4273 - "A minute later, the TV will go up several channels like it's possessed. Which is not good.",2,negative
 not -> ""
 
-409 - "Alas, neither she nor I were able to find a new pair in my size.",1,negative
+402 - "Alas, neither she nor I were able to find a new pair in my size.",1,negative
 neither -> both, or -> and
 
-3705 - The place was quaint but the waiter was rude and the food was terrible.,2,negative
+3643 - The place was quaint but the waiter was rude and the food was terrible.,2,negative
 but -> and
 
-163 - "Although they are branded as a Mitsubishi Dealership, they carry high end used cars and act as a used car dealership on the side.",1,neutral
+161 - "Although they are branded as a Mitsubishi Dealership, they carry high end used cars and act as a used car dealership on the side.",1,neutral
 Although -> ""
 
-4227 - "A little dry and chewy, but that's just to my taste!",2,positive
+4165 - "A little dry and chewy, but that's just to my taste!",2,positive
 but -> and
 
-3912 - "If you like high prices and crowds, Container Park is awesome.",2,negative
+3850 - "If you like high prices and crowds, Container Park is awesome.",2,negative
 awesome -> ok
 
-3966 - Is it even fair to expect a fish place would have amazing wings?,2,neutral
+3904 - Is it even fair to expect a fish place would have amazing wings?,2,neutral
 amazing -> decent
 
-3957 - It was excellent and huge portions I had forgotten I had spent the night on the toilet.,2,positive
+3895 - It was excellent and huge portions I had forgotten I had spent the night on the toilet.,2,positive
 excellent -> good
+
+
+CONCEPT ADDITION
+
+38 - "I did get seated pretty fast.",1,positive
+did -> did not
+
+27 - "I was referred to Safelite through my insurance company.",1,neutral
+was -> was not
+
+3601 - My lovely date and I came to this restaurant.,2,neutral
+came -> did not come
+
+61 - "It was very nice so we decided to stay again .",1,positive
+so -> but (It was very nice, but we decided to stay again .)
+
+3621 - "The food was decent, so I'll start with that.",2,positive
+so -> , although the service was slow, (The food was decent, although the service was slow, so I'll start with that.)
+
+3633 - We had dinner at Bouchon on a Tuesday night and we were able to make a reservation at 7:30 p.m.,2,neutral
+and -> , although (We had dinner at Bouchon on a Tuesday night, although we were able to make a reservation at 7:30 p.m.)
+
+11 - "AC went out at 7:30 this morning, Howard Air was answering phones at 7:45 am, they were here by 10:30 and had the problem fixed by noon.",1,positive
+fixed by noon. -> fixed by noon, which was amazing.
+
+3600 - The art exhibit has a lot to offer.,2,positive
+a lot to offer. -> an amazing amount to offer.
+
+3641 - The chairs were sunken in.,2,negative
+sunken in. -> terrible and sunken in.
